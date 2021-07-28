@@ -18,7 +18,9 @@ window.addEventListener("click", (e) => {
 await init();
 ```
 
-<a href='https://ko-fi.com/littledivy' target='_blank'><img height='25' style='border:0px;height:40px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' />
+
+<a href='https://ko-fi.com/littledivy' target='_blank'><img height='35' style='border:0px;height:46px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' />
+
 
 #### License
 
