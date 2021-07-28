@@ -12,10 +12,6 @@ export async function init() {
     }
   }
 
-  if (!fd) {
-    throw new TypeError("Not supported");
-  }
-
   const screenSize = pilot.screenSize();
   setInterval(async () => {
     // deno-lint-ignore no-explicit-any
