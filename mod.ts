@@ -99,15 +99,3 @@ function parse(props: any, buffer: Uint8Array) {
 
   return buttons > 0 ? "click" : "mousemove";
 }
-
-window.addEventListener("click", (e) => {
-  // @ts-ignore 
-  console.log(e.buttons);
-});
-
-window.addEventListener("mousemove", (e) => {
-  // @ts-ignore 
-  console.log(e.screenX);
-});
-
-await init();
