@@ -1,4 +1,4 @@
-import AutoPilot from "https://deno.land/x/autopilot@0.3.2/mod.ts";
+import AutoPilot from "https://deno.land/x/autopilot@0.4.0/mod.ts";
 
 const pilot = new AutoPilot();
 
